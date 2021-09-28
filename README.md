@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjk2008
 - 👀 I’m interested in growing my skills.
-- 🌱 I’m currently learning Android Studio.
-- 💞️ I’m looking to collaborate on Android Studio.
+- 🌱 I’m currently growing my skill in Android Application development.
+- 💞️ I’m looking to collaborate on Android Application Development.
 - 📫 How to reach me! Just contect me here.
 
 <!---
